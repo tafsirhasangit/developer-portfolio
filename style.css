@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
